@@ -4,7 +4,7 @@
 
 ### 🎓 Computer Science Student
 
-<img src="./imgs/Flower-Gif.gif" width="200" alt="Flower" vspace = "20"> <br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3AxcDVwcW91ajltd210YWtiNGdmcWpqdXY2OHE4djAyamUxczdodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDwXW80aYe6e93q53u/giphy.gif" width="200" alt= "flowers"><br><br>
 “One line of code at a time, I’m building my future.”
 
 </div>
